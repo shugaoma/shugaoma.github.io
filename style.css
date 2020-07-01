@@ -3,10 +3,10 @@ body { font: .8em Arial, Sans-Serif; line-height: 1.8em; background: #500; color
 a {COLOR: #6587E0; text-decoration: none;}
 a:visited {COLOR: #6587E0; text-decoration: none;}
 a:hover {COLOR: #333; text-decoration: underline;}
-h2 { margin: 0 0 10px; padding: 10px 0 3px; }
-h3 { padding-left: 10px; color: #fff; background: #FE7B09 url(bg.jpg) repeat-x; font-size: 1em; height: 24px; line-height: 24px; }
-p { margin: 5px 0 10px 0; }
-ul { margin: 5px 0 10px 20px;}
+h2 { margin: 0 0 16px; padding: 10px 0 3px; }
+h3 { padding-left: 12px; color: #fff; background: #FE7B09 url(bg.jpg) repeat-x; font-size: 1em; height: 24px; line-height: 24px; }
+p { margin: 5px 0 12px 0; }
+ul { margin: 5px 0 12px 20px;}
 ul li{ margin: 0 0 5px 0;}
 img { border: none; }
 #header {
